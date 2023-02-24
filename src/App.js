@@ -1,10 +1,10 @@
 import React from "react";
-import Route from "./routes/Routes";
+import HashRoute from "./routes/Routes";
 
 function App() {
   return (
     <div className="App">
-    <Route/>
+    <HashRoute/>
     </div>
   );
 };
