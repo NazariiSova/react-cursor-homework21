@@ -29,7 +29,8 @@
 .firstname-input, .lastname-input{
     background-color: black;
     height: 40px;
-    width: 200px;
+    width: 160px;
+    color: aliceblue;
     
 }
 .firstname-input{
