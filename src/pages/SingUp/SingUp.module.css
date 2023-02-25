@@ -31,10 +31,20 @@
     height: 40px;
     width: 160px;
     color: aliceblue;
-    
 }
+    .firstname-error-input, .lastname-error-input{
+      background-color: black;
+      height: 40px;
+      width: 160px;
+      color: aliceblue;
+      border-color: red;
+    }
+
 .firstname-input{
 margin-right: 10px;
+}
+.firstname-error-input{
+  margin-right: 10px;
 }
 
 .header-sing-in-icon {
